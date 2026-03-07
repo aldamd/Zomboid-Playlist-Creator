@@ -1,0 +1,1367 @@
+{
+    "1993 will be the best year": {
+        "genre": "Arena Rock",
+        "songs": {
+            "Right Now": "Van Halen",
+            "Bad Medicine": "Bon Jovi",
+            "Livin' On The Edge": "Aerosmith",
+            "Jump": "Van Halen",
+            "Live And Let Die": "Guns N' Roses",
+            "Moneytalks": "AC/DC",
+            "I Wanna Rock": "Twisted Sister"
+        }
+    },
+    "A Little Goodtime": {
+        "genre": "Motown, Soul, & Pop",
+        "songs": {
+            "Dance to the Music": "Sly & The Family Stone",
+            "Respect": "Aretha Franklin",
+            "Brown Eyed Girl": "Van Morrison",
+            "(Your Love Keeps Lifting Me) Higher and Higher": "Jackie Wilson",
+            "The Tears Of A Clown": "Smokey Robinson & The Miracles",
+            "Ain't No Mountain High Enough": "Marvin Gaye",
+            "Cold Sweat": "James Brown",
+            "Groovin'": "The Young Rascals",
+            "Bernadette": "Four Tops"
+        }
+    },
+    "Aaron's Music": {
+        "genre": "Alternative (90s)",
+        "songs": {
+            "Killing In The Name": "Rage Against The Machine",
+            "Creep": "Radiohead",
+            "Drown": "The Smashing Pumpkins",
+            "Crucify": "Tori Amos",
+            "Would?": "Alice In Chains",
+            "Loser": "Beck",
+            "No Rain": "Blind Melon"
+        }
+    },
+    "All About U": {
+        "genre": "Pop Rock (80s)",
+        "songs": {
+            "Shadows Of The Night": "Pat Benatar",
+            "Big Log": "Robert Plant",
+            "All The Things She Said": "Simple Minds",
+            "I Can't Wait": "Stevie Nicks",
+            "Circle In The Sand": "Belinda Carlisle",
+            "Higher Love": "Steve Winwood",
+            "Too Late For Goodbyes": "Julian Lennon",
+            "The Politics of Dancing": "Re-Flex"
+        }
+    },
+    "All Eighties": {
+        "genre": "Pop Rock (80s)",
+        "songs": {
+            "Big Time": "Peter Gabriel",
+            "Talk Talk": "Talk Talk",
+            "And She Was": "Talking Heads",
+            "Rio": "Duran Duran",
+            "(Keep Feeling) Fascination": "The Human League",
+            "Owner of a Lonely Heart": "Yes"
+        }
+    },
+    "American Wasteland": {
+        "genre": "Post-Punk",
+        "songs": {
+            "People Who Died": "The Jim Carroll Band",
+            "Los Angeles": "X",
+            "Gone Daddy Gone": "Violent Femmes",
+            "Alternative Ulster": "Stiff Little Fingers",
+            "Bastards of Young": "The Replacements",
+            "Waiting Room": "Fugazi",
+            "California Uber Alles": "Dead Kennedys",
+            "Search and Destroy": "The Stooges",
+            "Don't Want to Know If You Are Lonely": "H\u00fcsker D\u00fc"
+        }
+    },
+    "are you ready to rock": {
+        "genre": "Hard Rock",
+        "songs": {
+            "Hello There": "Cheap Trick",
+            "Wild Thing": "X",
+            "You're Invited (But Your Friend Can't Come)": "Vince Neil",
+            "Stone Cold Crazy": "Queen",
+            "Don't Call Me Dude": "Scatterbrain",
+            "Drop Dead Legs": "Van Halen",
+            "Play With Me": "Extreme",
+            "Eat The Rich": "Aerosmith"
+        }
+    },
+    "Blue Jeans and White Tees": {
+        "genre": "Hard Rock",
+        "songs": {
+            "Sharp Dressed Man": "ZZ Top",
+            "You Give Love A Bad Name": "Bon Jovi",
+            "Paradise City": "Guns N' Roses",
+            "You Shook Me All Night Long": "AC/DC",
+            "Rock You Like A Hurricane": "Scorpions",
+            "Poison": "Alice Cooper",
+            "Cherry Pie": "Warrant"
+        }
+    },
+    "Burn It All Down": {
+        "genre": "Alternative (80s)",
+        "songs": {
+            "Dirty Laundry": "Don Henley",
+            "Always Crashing in the Same Car": "David Bowie",
+            "Land of Confusion": "Genesis",
+            "Money": "The Flying Lizards",
+            "Puttin' on the Ritz": "Taco",
+            "Money For Nothing": "Dire Straits",
+            "Happy House": "Siouxsie and the Banshees"
+        }
+    },
+    "Christmas Songs": {
+        "genre": "Holiday: Christmas",
+        "songs": {
+            "Sleigh Ride": "Carpenters",
+            "It's Beginning to Look a Lot Like Christmas": "Perry Como",
+            "Rockin' Around The Christmas Tree": "Brenda Lee",
+            "Feliz Navidad": "Jos\u00e9 Feliciano",
+            "The Christmas Song (Merry Christmas)": "Nat King Cole",
+            "Jingle Bell Rock": "Bobby Helms",
+            "Here Comes Santa Clause (Right Down Santa Clause Lane)": "Gene Autry",
+            "Little Saint Nick": "The Beach Boys",
+            "Deck The Halls": "Nat King Cole",
+            "Frosty the Snowman": "The Ronettes",
+            "This Christmas": "Donny Hathaway",
+            "Merry Christmas Darling": "Carpenters"
+        }
+    },
+    "Classic Rock Darkness": {
+        "genre": "Classic Rock",
+        "songs": {
+            "(Don't Fear) The Reaper": "Blue \u00d6yster Cult",
+            "Paint It, Black": "The Rolling Stones",
+            "House Of The Rising Sun": "The Animals",
+            "Season of the Witch": "Donovan",
+            "Somebody to Love": "Jefferson Airplane",
+            "People Are Strange": "The Doors",
+            "White Room": "Cream",
+            "Time of the Season": "The Zombies"
+        }
+    },
+    "Cmon Girl": {
+        "genre": "Arena Rock",
+        "songs": {
+            "Urgent": "Foreigner",
+            "Best of Both Worlds": "Van Halen",
+            "Gimme All Your Lovin'": "ZZ Top",
+            "Who Made Who": "AC/DC",
+            "Unskinny Bop": "Poison",
+            "Armageddon It": "Def Leppard",
+            "Lay It on the Line": "Triumph",
+            "(I Can't Get No) Satisfaction": "DEVO"
+        }
+    },
+    "Covers": {
+        "genre": "Alternative",
+        "songs": {
+            "Dear Prudence": "Siouxsie and the Banshees",
+            "Always Something There to Remind Me": "Naked Eyes",
+            "Into the Groovey": "Sonic Youth",
+            "The Tide Is High": "Blondie",
+            "Take Me to the River": "Talking Heads",
+            "Tainted Love": "Soft Cell",
+            "U Got The Look": "Gary Numan"
+        }
+    },
+    "Cutty's Freshman Mix": {
+        "genre": "Alternative & Pop Rock",
+        "songs": {
+            "Loaded": "Primal Scream",
+            "Two Princes": "Spin Doctors",
+            "I'm Free": "The Soup Dragons",
+            "Happy Hour": "The Housemartins",
+            "Friday I'm in Love": "The Cure",
+            "Enid": "Barenaked Ladies",
+            "She Sells Sanctuary": "The Cult",
+            "Fools Gold": "THe Stone Roses"
+        }
+    },
+    "Dad's Mixtape": {
+        "genre": "Hard Rock & Pop Rock",
+        "songs": {
+            "Dreamboat Annie (Fantasy Child)": "Heart",
+            "Dreamboat Annie": "Heart",
+            "I Want That Man": "Debbie Harry",
+            "Hell Is For Children": "Pat Benatar",
+            "We Live For Love": "Pat Benatar",
+            "Following": "The Bangles",
+            "Hit Me With Your Best Shot": "Pat Benatar",
+            "In Your Room": "The Bangles",
+            "Dreamboat Annie - Reprise": "Heart"
+        }
+    },
+    "Dance Hop Stuff": {
+        "genre": "Pop Hip Hop",
+        "songs": {
+            "Rico Suave": "Gerardo",
+            "Romantic": "Karyn White",
+            "Live and Learn": "Joe Public",
+            "Humpin' Around": "Bobby Brown",
+            "Ice Ice Baby": "Vanilla Ice",
+            "Poison": "Bell Biv DeVoe",
+            "Hold You Tight": "Tara Kemp"
+        }
+    },
+    "Dark Eighties": {
+        "genre": "Alternative (80s)",
+        "songs": {
+            "Never Let Me Down Again": "Depeche Mode",
+            "Blue Monday": "New Order",
+            "Shout": "Tears For Fears",
+            "M.E.": "Gary Numan",
+            "The Chauffeur": "Duran Duran",
+            "Where Did Our Love Go?": "Soft Cell"
+        }
+    },
+    "Def Blaster MIXXY": {
+        "genre": "Rap",
+        "songs": {
+            "It's Tricky": "Run-D.M.C.",
+            "I Can't Live Without My Radio": "LL Cool J",
+            "This Be the Def Beat": "Dana Dane",
+            "Ladies First": "Queen Latifah",
+            "How Ya Like Me Now": "Kool Moe Dee",
+            "Let's Get It Started": "MC Hammer",
+            "Chunky But Funky": "Heavy D & The Boyz"
+        }
+    },
+    "Disco Side B": {
+        "genre": "Disco",
+        "songs": {
+            "Car Wash": "Rose Royce",
+            "We Are Family": "Sister Sledge",
+            "Shake Your Groove Thing": "Peaches & Herb",
+            "The Groove Line": "Heatwave",
+            "Take A Chance On Me": "ABBA",
+            "Get Off": "Foxy",
+            "Brick House": "Commodores",
+            "(Shake, Shake, Shake) Shake Your Booty": "KC & The Sunshine Band"
+        }
+    },
+    "Don't Place Faith in Human Beings": {
+        "genre": "Industrial Rock",
+        "songs": {
+            "Butterfly Wings": "Machines Of Loving Grace",
+            "Everyday Is Like Halloween": "Ministry",
+            "Bloodletting (The Vampire Song)": "Concrete Blonde",
+            "Dear God": "XTC",
+            "Da Ya Think I'm Sexy?": "Revolting Cocks",
+            "Sin - Long": "Nine Inch Nails"
+        }
+    },
+    "Duane's Mix Tape": {
+        "genre": "Hip Hop",
+        "songs": {
+            "What's Up Doc? (Can We Rock) (feat. FU-Schnickens)": "Shaquille O'Neal",
+            "Jump Around": "House Of Pain",
+            "Jump": "Kris Kross",
+            "O.P.P.": "Naughty By Nature",
+            "Rock Dis Funky Joint": "Poor Righteous Teachers",
+            "Rump Shaker": "Wreckx-N-Effect",
+            "Motownphilly": "Boyz II Men"
+        }
+    },
+    "E. C. H. C.": {
+        "genre": "Punk",
+        "songs": {
+            "New Direction": "Gorilla Biscuits",
+            "Victim In Pain": "Agnostic Front",
+            "Hard Times": "Cro-Mags",
+            "Skate To Hell": "Gang Green",
+            "Banned in D.C.": "Bad Brains",
+            "Fuck Your Attitude": "Warzone",
+            "Filler": "Minor Threat",
+            "U.S.A.": "Reagan Youth",
+            "Stand Still": "Gorilla Biscuits",
+            "Skinhead Rebel": "Murphy's Law",
+            "N.S./My Revenge": "Sick Of It All",
+            "Sneakers": "Teen Idles",
+            "Out Of Step": "Minor Threat",
+            "The Eliminator": "Agnostic Front",
+            "F.V.K. (Fearless Vampire Killer)": "Bad Brains",
+            "Don't Tread on Me": "Cro-Mags",
+            "New York Crew": "Judge",
+            "Break Down the Walls": "Youth Of Today",
+            "Don't Forget the Struggle Don't Forget the Streets": "Warzone"
+        }
+    },
+    "East Euro": {
+        "genre": "Synth Pop",
+        "songs": {
+            "\u0414\u0430\u0432\u0430\u0439\u0442\u0435 \u0441\u043e\u0437\u0432\u043e\u043d\u0438\u043c\u0441\u044f!": "Forum",
+            "\u041d\u0435 \u0437\u0430\u0431\u044b\u0432\u0430\u0439": "Kombinaciya",
+            "\u042e\u0440\u043c\u0430\u043b\u0430": "\u0410\u043d\u0436\u0435\u043b\u0438\u043a\u0430",
+            "\u0417\u0432\u0451\u0437\u0434\u043d\u044b\u0439 \u0432\u0435\u0447\u0435\u0440": "\u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430",
+            "\u0422\u044b \u0437\u0430\u043c\u0443\u0436 \u0437\u0430 \u043d\u0435\u0433\u043e \u043d\u0435 \u0432\u044b\u0445\u043e\u0434\u0438": "Elektroklub & \u0412\u0438\u043a\u0442\u043e\u0440 \u0421\u0430\u043b\u0442\u044b\u043a\u043e\u0432",
+            "\u041d\u0430\u0436\u043c\u0438 \u043d\u0430 \u043a\u043d\u043e\u043f\u043a\u0443": "Technology",
+            "Russian Girls": "Kombinaciya"
+        }
+    },
+    "eating shit": {
+        "genre": "Grunge",
+        "songs": {
+            "Unsung": "Helmet",
+            "Macaque": "Failure",
+            "Cutoff": "Jawbox",
+            "Night Goat": "Melvins",
+            "Leafy Incline": "Tad",
+            "Mr. Krinkle": "Primus",
+            "Iron Clad Lou": "Hum"
+        }
+    },
+    "Everybody Listens to Techno": {
+        "genre": "Techno: Ambient & Breakbeat",
+        "songs": {
+            "Little Fluffy Clouds": "The Orb",
+            "LFO": "LFO",
+            "Pacific 202": "808 State",
+            "Can You Feel It": "Larry Heard",
+            "Sweet Harmony": "Liquid",
+            "Belfast": "Orbital"
+        }
+    },
+    "Extra Noisey": {
+        "genre": "Punk Revival",
+        "songs": {
+            "Welcome to Paradise": "Green Day",
+            "Just The Flu": "NOFX",
+            "American Jesus": "Bad Religion",
+            "Bro Hymn": "Pennywise",
+            "Angry Days": "Lagwagon",
+            "Until It's Gone": "No Use For A Name",
+            "Prison Bound": "Social Distortion",
+            "Knowledge": "Operation Ivy",
+            "Christie Rd.": "Green Day"
+        }
+    },
+    "Five Stars": {
+        "genre": "Contemporary Rock",
+        "songs": {
+            "Billie Jean": "Michael Jackson",
+            "Rosanna": "TOTO",
+            "Close to Me": "The Cure",
+            "Hard to Say I'm Sorry": "Chicago",
+            "Kiss You All Over": "Exile",
+            "Faith": "George Michael",
+            "Give A Little Bit": "Supertramp",
+            "Dancing in the Dark": "Bruce Springsteen"
+        }
+    },
+    "For My Traveling Companion": {
+        "genre": "Pop Rock & Folk Rock",
+        "songs": {
+            "Graceland": "Paul Simon",
+            "Magic Man": "Heart",
+            "Rhiannon": "Fleetwood Mac",
+            "Baker Street": "Gerry Rafferty",
+            "Love the One You're With": "Crosby, Stills & Nash",
+            "Heroes": "David Bowie"
+        }
+    },
+    "For The Club": {
+        "genre": "EDM",
+        "songs": {
+            "Pressure": "Sunscreem",
+            "Boss Drum": "The Shamen",
+            "Attack Of The 50 Foot Drum Demon": "Bass-o-Matic",
+            "N-R-G": "Adamski",
+            "Fear Of The Future": "Shades of Rhythm",
+            "Something Good": "Utah Saints"
+        }
+    },
+    "Fresh Scene": {
+        "genre": "Pop (90s)",
+        "songs": {
+            "She Drives Me Crazy": "Fine Young Cannibals",
+            "Cruel Summer": "Bananrama",
+            "Wild Thing": "Tone-Loc",
+            "Opposites Attract": "Paula Abdul",
+            "Push It": "Salt-N-Pepa",
+            "Tell It to My Heart": "Taylor Dayne",
+            "The Look": "Roxette",
+            "Bust A Move": "Young MC"
+        }
+    },
+    "Geek Rock": {
+        "genre": "Synth Rock",
+        "songs": {
+            "Beautiful World": "Devo",
+            "Everybody Have Fun Tonight": "Wang Chung",
+            "The Safety Dance": "Men Without Hats",
+            "Don't You (Forget About Me)": "Simple Minds",
+            "Sweet Dreams (Are Made of This)": "Eurythmics",
+            "Major Tom (Coming Home)": "Peter Schilling",
+            "Don't You Want Me": "The Human League"
+        }
+    },
+    "Golden Oldies": {
+        "genre": "Rock and Roll",
+        "songs": {
+            "My Boyfriend's Back": "The Angels",
+            "Who Put the Bomp (In the Bomp, Bomp, Bomp)": "Barry Mann",
+            "Sugar Shack": "The Fireballs",
+            "Stay": "Frankie Valli & The Four Seasons",
+            "Easier Said Than Done": "The Essex",
+            "Blue Moon": "The Marcels",
+            "Donna the Prima Donna": "Dion",
+            "Do You Wanna Dance": "Bobby Freeman",
+            "Silhouettes": "The Rays",
+            "Rain Drops": "Dee Clark",
+            "The Wah Watusi": "The Orions",
+            "Step By Step": "The Crests"
+        }
+    },
+    "gonna make u sweat": {
+        "genre": "Dance (House)",
+        "songs": {
+            "Gonna Make You Sweat (Everybody Dance Now)": "C & C Music Factory",
+            "Free Your Mind": "En Vogue",
+            "Get Up (The Funky Bunch Theme)": "Marky Mark And The Funky Bunch",
+            "We Got A Love Thang": "CeCe Peniston",
+            "Ride On Time": "Black Box",
+            "Get Up (Before The Night Is Over)": "Technotronic",
+            "Rhythm Nation": "Janet Jackson"
+        }
+    },
+    "Good Dance Music for the Club": {
+        "genre": "Disco & Dance",
+        "songs": {
+            "Le Freak": "CHIC",
+            "Hot Stuff": "Donna Summer",
+            "Superstition": "Stevie Wonder",
+            "Play That Funky Music": "Wild Cherry",
+            "Stayin' Alive": "Bee Gees",
+            "You Sexy Thing": "Hot Chocolate",
+            "Celebration": "Kool & The Gang"
+        }
+    },
+    "Grungy Stuff": {
+        "genre": "Grunge Rock",
+        "songs": {
+            "Shitlist": "L7",
+            "Shadow of the Season": "Screaming Trees",
+            "Lithium": "Nirvana",
+            "Burn a Hole": "Skin Yard",
+            "Swallow My Pride": "Green River",
+            "Between The Eyes": "Love Battery",
+            "Wicked Garden": "Stone Temple Pilots",
+            "Suck You Dry": "Mudhoney"
+        }
+    },
+    "Heavy Metal Massacre": {
+        "genre": "Heavy Metal",
+        "songs": {
+            "Run to the Hills": "Iron Maiden",
+            "Mother": "Danzig",
+            "Breaking the Law": "Judas Priest",
+            "Iron Man": "Black Sabbath",
+            "The Unforgiven": "Metallica",
+            "Pull Me Under": "Dream Theater"
+        }
+    },
+    "Helicopters Over Hanoi": {
+        "genre": "Classic Rock",
+        "songs": {
+            "Fortunate Son": "Creedence Clearwater Revival",
+            "Break on Through (To the Other Side)": "The Doors",
+            "For What It's Worth": "Buffalo Springfeild",
+            "Come Together": "The Beatles",
+            "Gimme Shelter": "The Rolling Stones",
+            "All Along the Watchtower": "Jimi Hendrix",
+            "Sunshine Of Your Love": "Cream",
+            "Stuck In The Middle With You": "Stealers Wheel",
+            "Run Through The Jungle": "Creedence Clearwater Revival"
+        }
+    },
+    "Hell Yeah": {
+        "genre": "Arena Rock",
+        "songs": {
+            "Turn Up The Radio": "Autograph",
+            "Run Runaway": "Slade",
+            "Addicted To Love": "Robert Palmer",
+            "My Kinda Lover": "Billy Squier",
+            "Mony Mony": "Billy Idol",
+            "Love In An Elevator": "Aerosmith"
+        }
+    },
+    "Hey Devil, How's It Hanging": {
+        "genre": "Heavy Metal",
+        "songs": {
+            "Looks That Kill": "M\u00f6tley Cr\u00fce",
+            "Living After Midnight": "Judas Priest",
+            "Animal": "Def Leppard",
+            "Fly To The Angels": "Slaughter",
+            "Over the Mountain": "Ozzy Osbourne",
+            "Youth Gone Wild": "Skid Row",
+            "Jet City Woman": "Queensr\u00ffche"
+        }
+    },
+    "High Waisted": {
+        "genre": "Pop (80s)",
+        "songs": {
+            "Total Eclipse of the Heart": "Bonnie Tyler",
+            "Heaven Is A Place On Earth": "Belinda Carlisle",
+            "Run To You": "Bryan Adams",
+            "Heartbreaker": "Pat Benatar",
+            "Listen To Your Heart": "Roxette",
+            "Black Velvet": "Alannah Myles",
+            "Don't Stop Believin'": "Journey"
+        }
+    },
+    "Hood Mix": {
+        "genre": "Hip Hop (90s)",
+        "songs": {
+            "Sweet Potatoe Pie": "Domino",
+            "How To Survive In South Central": "Ice Cube",
+            "Growin' Up In The Hood": "Compton's Most Wanted",
+            "Work It Out": "Monie Love",
+            "Every Single Weekend": "Kam",
+            "Hangin' Out": "2 LIVE CREW",
+            "It's Your Life": "Too $hort",
+            "Another Execution": "Above The Law"
+        }
+    },
+    "In A Dance Trance": {
+        "genre": "Dance",
+        "songs": {
+            "Unbelievable": "EMF",
+            "The Power": "SNAP!",
+            "Finally": "CeCe Peniston",
+            "Good Vibrations": "Marky Mark And The Funky Bunch",
+            "Pump Up The Jam": "Technotronic",
+            "Strike It Up": "Black Box",
+            "Justified & Ancient": "The KLF"
+        }
+    },
+    "In Dire Straits": {
+        "genre": "Classic Rock",
+        "songs": {
+            "Sultans of Swing": "Dire Straights",
+            "Lady Writer": "Dire Straights",
+            "Once Upon a Time in the West": "Dire Straights",
+            "Money for Nothing": "Dire Straights",
+            "Walk of Life": "Dire Straights",
+            "Brothers in Arms": "Dire Straights"
+        }
+    },
+    "Industrialized": {
+        "genre": "Industrial Rock",
+        "songs": {
+            "Dominion / Mother Russia": "Sisters of Mercy",
+            "Metal": "Gary Numan",
+            "Light": "KMFDM",
+            "Das Model": "Kraftwerk",
+            "Terrible Lie": "Nine Inch Nails",
+            "Assimilate": "Skinny Puppy"
+        }
+    },
+    "It's over. It's really over.": {
+        "genre": "Pop Rock",
+        "songs": {
+            "Don't Dream It's Over": "Crowded House",
+            "I Still Haven't Found What I'm Looking For": "U2",
+            "Everybody Hurts": "R.E.M.",
+            "Drive": "The Cars",
+            "Crazy": "Seal",
+            "Ordinary World": "Duran Duran",
+            "Time After Time": "Cyndi Lauper"
+        }
+    },
+    "Javelin Rock": {
+        "genre": "Classic Rock",
+        "songs": {
+            "Runnin' Down A Dream": "Tom Petty",
+            "Jailbreak": "Thin Lizzy",
+            "Glory Days": "Bruce Springsteen",
+            "Legs": "ZZ Top",
+            "Rock'n Me": "Steve Miller Band",
+            "Life in the Fast Lane": "Eagles",
+            "Magic Carpet Ride": "Steppenwolf"
+        }
+    },
+    "Jordy's 91 mix": {
+        "genre": "Pop",
+        "songs": {
+            "Here We Go": "C & C Music Factory",
+            "Y'All": "B.B. Jerome & The Bang Gang",
+            "Wildside": "Marky Mark And The Funky Bunch",
+            "Let's Talk About Sex": "Salt-N-Pepa",
+            "Need You Tonight": "INXS",
+            "Now That We Found Love": "Heavy D & The Boyz",
+            "Wiggle It": "2 In A Room"
+        }
+    },
+    "just two starcrossed lovers": {
+        "genre": "Arena Rock",
+        "songs": {
+            "Love Is A Long Road": "Tom Petty",
+            "Every 1's a Winner": "Hot Chocolate",
+            "I Can't Drive 55": "Sammy Hagar",
+            "Crazy On You": "Heart",
+            "Sweet Emotion": "Aerosmith",
+            "Reckless": "Bryan Adams",
+            "Sultans of Swing": "Dire Straits"
+        }
+    },
+    "Life in the 90s": {
+        "genre": "Pop Rock (90s)",
+        "songs": {
+            "Life Is A Highway": "Tom Cochrane",
+            "Joyride": "Roxette",
+            "Baby, It's Tonight": "Jude Cole",
+            "Would I Lie to You?": "Eurythmics",
+            "How Do You Talk To An Angel?": "The Heights",
+            "To Be With You": "Mr. Big",
+            "Hold On": "Wilson Phillips",
+            "High Enough": "Damn Yankees"
+        }
+    },
+    "Lounge Storm Rock": {
+        "genre": "Classic Rock",
+        "songs": {
+            "Riders on the Storm": "The Doors",
+            "Strange Brew": "Cream",
+            "Little Wing": "Jimi Hendrix",
+            "Behind Blue Eyes": "The Who",
+            "A Horse with No Name": "America",
+            "Comfortably Numb": "Pink Floyd"
+        }
+    },
+    "Maybe New Wave": {
+        "genre": "Alternative (80s)",
+        "songs": {
+            "This Is the Day": "The The",
+            "Pretty in Pink": "The Psychedelic Furs",
+            "E=MC2": "Big Audio Dynamite",
+            "Save It For Later": "The English Beat",
+            "Making Plans For Nigel": "XTC",
+            "Love Will Tear Us Apart": "Joy Division",
+            "Space Age Love Song": "A Flock Of Seagulls"
+        }
+    },
+    "Melissa's Tape": {
+        "genre": "Pop",
+        "songs": {
+            "Straight Up": "Paula Abdul",
+            "Step by Step": "New Kids On The Block",
+            "Girl You Know It's True": "Milli Vanilli",
+            "Kokomo": "The Beach Boys",
+            "Got 2 Have U": "Color Me Badd",
+            "Like a Prayer": "Madonna",
+            "Rhythm Of The Night": "DeBarge",
+            "The Sign": "Ace of Base"
+        }
+    },
+    "Miami Nights": {
+        "genre": "Pop Rock",
+        "songs": {
+            "In The Air Tonight": "Phil Collins",
+            "Sunglasses At Night": "Corey Hart",
+            "Destination Unknown": "Missing Persons",
+            "Never Say Never": "Romeo Void",
+            "Video Killed The Radio Star": "The Buggles",
+            "Love Is A Battlefield": "Pat Benatar",
+            "The One Thing": "INXS"
+        }
+    },
+    "mind your own business": {
+        "genre": "Alternative (80s)",
+        "songs": {
+            "Mind Your Own Business": "Delta 5",
+            "She Don't Use Jelly": "The Flaming Lips",
+            "Beat My Guest": "Adam & The Ants",
+            "Wave Of Mutilation": "Pixies",
+            "Why Can't I Touch It?": "Buzzcocks",
+            "Pump It Up": "Elvis Costello",
+            "Uncontrollable Urge": "DEVO",
+            "Lips Like Sugar": "Echo & The Bunnymen",
+            "Kiss Off": "Violent Femmes",
+            "Life During Wartime": "Talking Heads"
+        }
+    },
+    "Minivan Mix": {
+        "genre": "Soft Rock",
+        "songs": {
+            "The Way It Is": "Bruce Hornsby",
+            "If I Could Turn Back Time": "Cher",
+            "Hungry Eyes": "Eric Carmen",
+            "Broken Wings": "Mr. Mister",
+            "Against All Odds": "Phil Collins",
+            "Can't Fight This Feeling": "REO Speedwagon",
+            "Missing You": "John Waite"
+        }
+    },
+    "Modern Easy Country": {
+        "genre": "Country (90s)",
+        "songs": {
+            "Brand New Man": "Brooks & Dunn",
+            "Don't Rock the Jukebox": "Alan Jackson",
+            "Independence Day": "Martina McBride",
+            "God Blessed Texas": "Little Texas",
+            "Achy Breaky Heart": "Billy Ray Cyrus",
+            "Let Go": "Brother Phelps",
+            "Norma Jean Riley": "Diamond Rio",
+            "Should've Been A Cowboy": "Toby Keith",
+            "I'm Gonna Be Somebody": "Travis Tritt"
+        }
+    },
+    "Mom's Tape": {
+        "genre": "Pop Rock & Folk Rock",
+        "songs": {
+            "Early Morning Rain": "Gordon Lightfood",
+            "Soul Of The Sea": "Heart",
+            "Summer Rain": "Johnny Rivers",
+            "Goodbye Yellow Brick Road": "Elton John",
+            "Gypsy": "Fleetwood Mac",
+            "Whole Lotta Love": "Led Zeppelin",
+            "What Is Life": "George Harrison"
+        }
+    },
+    "Mullet Rocking": {
+        "genre": "Hard Rock",
+        "songs": {
+            "Metal Health (Bang Your Head)": "Quiet Riot",
+            "I'm In Love With My Car": "Queen",
+            "Nothin' But A Good Time": "Poison",
+            "Wild Side": "M\u00f6tley Cr\u00fce",
+            "Modern Day Cowboy": "Tesla",
+            "Girls Got Rhythm": "AC/DC",
+            "Round and Round": "Ratt"
+        }
+    },
+    "My '70s Mixtape": {
+        "genre": "Pop Rock (70s)",
+        "songs": {
+            "Bad Blood": "Neil Sedaka",
+            "Life Is a Rock (But the Radio Rolled Me)": "Reunion",
+            "The Night the Lights Went out in Georgia": "Vicki Lawrence",
+            "Draggin' the Line": "Tommy James",
+            "It Never Rains in Southern California": "Albert Hammond",
+            "Arizona": "Mark Lindsay",
+            "Sooner Or Later": "The Grass Roots",
+            "Hitchin' A Ride": "Vanity Fare",
+            "Desir\u00e9e": "Neil Diamond",
+            "Heat Wave": "Linda Rodstadt"
+        }
+    },
+    "My Summer 1993 Mix": {
+        "genre": "Pop & Hip Hop",
+        "songs": {
+            "Slam": "Onyx",
+            "(I Can't Help) Falling In Love With You": "UB40",
+            "Whoomp! There It Is": "Tag Team",
+            "That's The Way Love Goes": "Janet Jackson",
+            "Mr. Vain": "Culture Beat",
+            "Right Here": "SWV",
+            "Boom! Shake the Room": "DJ Jazzy Jeff & The Fresh Prince",
+            "All That She Wants": "Ace of Base"
+        }
+    },
+    "New Jack Swing": {
+        "genre": "New Jack Swing",
+        "songs": {
+            "My Prerogative": "Bobby Brown",
+            "I Want Her": "Keith Sweat",
+            "I'm So Into You": "SWV",
+            "Groove Me": "Guy",
+            "Under Pressure": "Boyz II Men",
+            "Is It Good To You": "Teddy Riley and Tammy Lucas",
+            "Rated R": "Ralph Tresvant"
+        }
+    },
+    "New School": {
+        "genre": "Hip Hop & New Jack Swing",
+        "songs": {
+            "This Is How We Do It": "DJ Nazil",
+            "My Perogative": "Bobby Brown",
+            "Everybody Everybody": "Black Box",
+            "Shoop": "Salt-N-Pepa",
+            "Don't Walk Away": "Jade",
+            "Come Baby Come": "K7",
+            "If I Had No Loot": "Tony! Toni! Ton\u00e9!",
+            "My Lovin' (You're Never Gonna Get It)": "En Vogue"
+        }
+    },
+    "Night Out on the Town": {
+        "genre": "Pop Rock (70s)",
+        "songs": {
+            "Smokin'": "Boston",
+            "Saturday Night's Alright (For Fighting)": "Elton John",
+            "Hot Blooded": "Foreigner",
+            "Lonely Is The Night": "Billy Squier",
+            "Fox On The Run": "Sweet",
+            "Blinded By The Light": "Manfred Mann's Earth Band",
+            "Jane": "Jefferson Starship"
+        }
+    },
+    "Night Streets": {
+        "genre": "Arena Rock",
+        "songs": {
+            "Runaway": "Bon Jovi",
+            "Alone Again": "Dokken",
+            "Black and Blue": "Van Halen",
+            "Big City Nights": "Scorpions",
+            "Bringin' On The Heartbreak": "Def Leppard",
+            "Ride The Wind": "Poison",
+            "Shot in the Dark": "Ozzy Osbourne"
+        }
+    },
+    "norte\u00f1o y m\u00e1s para trabajar": {
+        "genre": "M\u00fasica Norte\u00f1a",
+        "songs": {
+            "Nunca Voy A Olvidarte": "Bronco",
+            "La Puerta Negra": "Los Tigres Del Norte",
+            "Compr\u00e9ndala": "Cardenales De Nuevo Le\u00f3n",
+            "Quisiera Ser Una L\u00e1grima": "Los Traileros Del Norte",
+            "Qui\u00e9reme": "Joan Sebastian",
+            "Un Golpe M\u00e1s": "Bronco",
+            "Recu\u00e9rdama Y Ven A Mi": "Ramon Ayala Y Sus Bravos Del Norte",
+            "El Palomito": "Los Cadetes De Linares",
+            "Carta Abierta": "Los Tigres Del Norte",
+            "Los A\u00f1os Viejos": "Los Baron De Apodaca"
+        }
+    },
+    "OG Throws": {
+        "genre": "Rap & Hip Hop",
+        "songs": {
+            "Walk This Way (feat. Aerosmith)": "Run-D.M.C.",
+            "The New Style": "Beastie Boys",
+            "Mama Said Knock You Out": "LL Cool J",
+            "Funky Cold Medina": "Tone-Loc",
+            "Fight The Power": "Public Enemy",
+            "Hip Hop Hooray": "Naughty By Nature",
+            "The Choice Is Yours": "Black Sheep"
+        }
+    },
+    "Poptop Rock": {
+        "genre": "Pop Rock",
+        "songs": {
+            "Don't Bring Me Down": "Electric Light Orchestra",
+            "You Might Think": "The Cars",
+            "Take Me to the River": "Talking Heads",
+            "We Built This City": "Starship",
+            "SledgeHammer": "Peter Gabriel",
+            "It's The End Of The World As We Know It": "R.E.M.",
+            "Surrender": "Cheap Trick"
+        }
+    },
+    "Popular Alternative": {
+        "genre": "Alternative (90s)",
+        "songs": {
+            "Bad Luck": "Social Distortion",
+            "Fire Woman": "The Cult",
+            "Right Here Right Now": "Jesus Jones",
+            "3 Strange Days": "School Of Fish",
+            "There's No Other Way": "Blur",
+            "Say Hello 2 Heaven": "Temple Of The Dog",
+            "Even Flow": "Pearl Jam"
+        }
+    },
+    "Psycho Dellic Maaan": {
+        "genre": "Psychedelic Rock",
+        "songs": {
+            "Purple Haze": "Jimi Hendrix",
+            "Light My Fire": "The Doors",
+            "Stairway to Heaven": "Led Zepplin",
+            "Hotel California": "Eagles",
+            "Wish You Were Here": "Pink Floyd"
+        }
+    },
+    "Putting it all Behind Me": {
+        "genre": "Pop Rock",
+        "songs": {
+            "Maneater": "Hall & Oates",
+            "That's All": "Genesis",
+            "In A Big Country": "Big Country",
+            "I'll Be Alright Without You": "Journey",
+            "Valerie": "Steve Winwood",
+            "Throwing It All Away": "Genesis",
+            "Don't Look Back": "Boston"
+        }
+    },
+    "Queen of the Desert": {
+        "genre": "Disco & Pop",
+        "songs": {
+            "Mamma Mia": "ABBA",
+            "I've Never Been To Me": "Charlene",
+            "Go West": "Village People",
+            "Billy, Don't Be A Hero": "Paper Lace",
+            "Rock the Boat": "Hues Corporation",
+            "I Love The Nightlife (Disco 'Round)": "Alicia Bridges",
+            "I Will Survive": "Gloria Gaynor",
+            "Take a Letter, Maria": "R.B. Greaves"
+        }
+    },
+    "Raise The Dead": {
+        "genre": "Thrash & Heavy Metal",
+        "songs": {
+            "Raining Blood": "Slayer",
+            "Walk": "Pantera",
+            "This Was My Life": "Megadeth",
+            "Between the Hammer & the Anvil": "Judas Priest",
+            "Be Quick or Be Dead": "Iron Maiden",
+            "Souls of Black": "Testament",
+            "South Of Heaven": "Slayer"
+        }
+    },
+    "Reminincin' Country": {
+        "genre": "Country Western",
+        "songs": {
+            "Take Me Home, Country Roads": "John Denver",
+            "Amarillo By Morning": "George Straight",
+            "Blue Kentucky Girl": "Loretta Lynn",
+            "The Gambler": "Kenny Rogers",
+            "Louisiana Saturday Night": "Mel McDaniel",
+            "Tusla Time": "Don Williams",
+            "Harper Valley P.T.A.": "Jeannie C. Riley",
+            "Walkin' After Midnight": "Patsy Cline",
+            "Ballad Of Forty Dollars": "Tom T. Hall",
+            "Mamas Don't Let Your Babies Grow Up to be Cowboys": "Waylon Jennings"
+        }
+    },
+    "Rick's Mix 1993": {
+        "genre": "Alternative & Industrial Rock",
+        "songs": {
+            "Head Like A Hole": "Nine Inch Nails",
+            "Outshined": "Soundgarden",
+            "Dam That River": "Alice In Chains",
+            "Prison Sex": "TOOL",
+            "Sex Type Thing": "Stone Temple Pilots",
+            "Nearly Lost You": "Screaming Trees",
+            "Shine": "Collective Soul"
+        }
+    },
+    "Ride into Battle Mix": {
+        "genre": "Classic Hard Rock",
+        "songs": {
+            "War Pigs": "Black Sabbath",
+            "Gimme Shelter": "The Rolling Stones",
+            "Run Through The Jungle": "Creedence Clearwater Revival",
+            "All Along the Watchtower": "Jimi Hendrix",
+            "Immigrant Song": "Led Zeppelin",
+            "House Of The Rising Sun": "The Animals"
+        }
+    },
+    "Riverboat Tunes": {
+        "genre": "Pop Rock (70s)",
+        "songs": {
+            "Margaritaville": "Jimmy Buffett",
+            "Escape (The Pina Colada Song)": "Rupert Holmes",
+            "December, 1963 (Oh What a Night!)": "Frankie Valli & The Four Seasons",
+            "My Life": "Billy Joel",
+            "Dancing in the Moonlight": "King Harvest",
+            "Listen to the Music": "The Doobie Brothers",
+            "Don't Stop": "Fleetwood Mac",
+            "Southern Nights": "Glen Campbell"
+        }
+    },
+    "ROADTRIP 89": {
+        "genre": "Pop Rock (80s)",
+        "songs": {
+            "Roam": "The B-52's",
+            "I Drove All Night": "Cyndi Lauper",
+            "Wheel in the Sky": "Journey",
+            "Highway Star": "Deep Purple",
+            "Start Me Up": "The Rolling Stones",
+            "Got My Mind Set on You": "George Harrison",
+            "Wild Wild West": "The Escape Club"
+        }
+    },
+    "Rock N Roll N DIE": {
+        "genre": "Rock and Roll",
+        "songs": {
+            "Little Bitty Pretty One": "The Sharps",
+            "Rock and Roll Is Here to Stay": "Danny & The Juniors",
+            "Whole Lotta Shakin' Goin On": "Chubby Checker",
+            "Shake, Rattle And Roll": "Bill Haley & His Comets",
+            "Over and Over": "Bobby Day",
+            "Shout Shout (Knock Yourself Out)": "Ernie Maresca",
+            "I Wonder Why": "Dion & The Belmonts",
+            "Barbara Ann": "The Regents",
+            "If You Wanna Be Happy": "The Dovells",
+            "Wild One": "Jerry Lee Lewis",
+            "Get a Job": "The Silhouettes",
+            "Blue Suede Shoes": "Carl Perkins",
+            "Bony Moronie": "Larry Williams"
+        }
+    },
+    "Saturday Night Country": {
+        "genre": "Country (90s)",
+        "songs": {
+            "The Devil Went Down to Georgia": "The Charlie Daniels Band",
+            "A Little Less Talk And A Lot More Action": "Toby Keith",
+            "T-R-O-U-B-L-E": "Travis Tritt",
+            "One More Last Chance": "Vince Gill",
+            "Bubba Shot The Jukebox": "Mark Chesnutt",
+            "Hard Workin' Man": "Brooks & Dunn",
+            "Trashy Women": "Confederate Railroad",
+            "Prop Me Up Beside the Jukebox": "Joe Diffie",
+            "Friends In Low Places": "Garth Brooks"
+        }
+    },
+    "Second Wave": {
+        "genre": "Ska & Pop Punk",
+        "songs": {
+            "One Step Beyond": "Madness",
+            "Ghost Town": "The Specials",
+            "I Fought the Law": "The Clash",
+            "Private Idaho": "The B-52's",
+            "Talk Is Cheap": "The Toasters",
+            "Watching The Detectives": "Elvis Costello",
+            "Mirror In The Bathroom": "The English Beat",
+            "Break My Stride": "Matthew Wilder",
+            "Let's Do Rock Steady": "The Bodysnatchers",
+            "Koka Kola": "The Clash"
+        }
+    },
+    "Skalicioso": {
+        "genre": "Ska (Espa\u00f1ol)",
+        "songs": {
+            "Pachuco": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+            "Mi Novia Se Cay\u00f3 en un Pozo Ciego": "Los Fabulosos Cadillacs",
+            "El Son del Dolor": "Cuca",
+            "La Bebida, el Juego y las Mujeres": "Los Aut\u00e9nticos Decadentes",
+            "P\u00e1rate Y Mira": "Los Pericos",
+            "Manuel Santill\u00e1n, el Le\u00f3n": "Los Fabulosos Cadillacs",
+            "La Marca de la Gorra": "Los Aut\u00e9nticos Decadentes",
+            "Ska De Aca": "Desorden P\u00fablico",
+            "Yo Te Avis\u00e9": "Los Fabulosos Cadillacs"
+        }
+    },
+    "Smile, Babe": {
+        "genre": "Oldies",
+        "songs": {
+            "The Best Is Yet to Come": "Tony Bennett",
+            "Comes A-Long A-Love": "Kay Starr",
+            "I Don't Care If The Sun Don't Shine": "Patti Page",
+            "That's Life": "Shirley Bassey",
+            "What A Wonderful World": "Louis Armstrong",
+            "Can't Help Lovin' Dat Man": "Trudy Richards",
+            "My Guy": "Aretha Franklin",
+            "A Wonderful Day Like Today": "Sammy Davis Jr.",
+            "A Fine Romance": "Lena Horne",
+            "Sentimental Journey": "Doris Day",
+            "Smile": "Tony Bennett"
+        }
+    },
+    "Some Lynyrd Skynyrd": {
+        "genre": "Lynyrd Skynyrd Tracks",
+        "songs": {
+            "Mississippi Kid": "Lynyrd Skynyrd",
+            "Simple Man": "Lynyrd Skynyrd",
+            "The Needle And The Spoon": "Lynyrd Skynyrd",
+            "That Smell": "Lynyrd Skynyrd",
+            "Free Bird": "Lynyrd Skynyrd"
+        }
+    },
+    "Songs for the Street": {
+        "genre": "Pop Rock",
+        "songs": {
+            "Don't Stop Me Now": "Queen",
+            "Come On Eileen": "Dexys Midnight Runners",
+            "Down Under": "Men At Work",
+            "Centerfold": "The J. Geils Band",
+            "I Want You to Want Me": "Cheap Trick",
+            "I Wanna Be A Cowboy": "Boys Don't Cry",
+            "My Sharona": "The Knack"
+        }
+    },
+    "Street Hop": {
+        "genre": "Hip Hop & Gangsta Rap",
+        "songs": {
+            "Time 4 Sumaksion": "Redman",
+            "Can't Truss It": "Public Enemy",
+            "Everything's Gonna Be Alright": "Naughty By Nature",
+            "Gangsta Gangsta": "N.W.A.",
+            "I Ain't Goin' Out Like That": "Cypress Hill",
+            "Wicked": "Ice Cube",
+            "Protect Ya Neck": "Wu-Tang Clan"
+        }
+    },
+    "Sum Sad ol Bluegrass": {
+        "genre": "Bluegrass",
+        "songs": {
+            "Paradise": "Jim & Jesse",
+            "Oh, Death": "The Stanley Brothers",
+            "Blue Moon of Kentucky": "Ralph Stanley",
+            "Will the Circle Be Unbroken": "The Carter Family",
+            "I Might Take You Back Again": "The Kentucky Colonels",
+            "Wayfaring Stranger": "Bill Monroe & His Blue Grass Boys",
+            "I'm a Stranger Here": "The Osborne Brothers",
+            "I'll Fly Away": "The Kossoy Sisters",
+            "Banks of the Ohio": "Bill Monroe, Doc Watson",
+            "I Don't Want Your Greenback Dollar": "The Blue Sky Boys"
+        }
+    },
+    "Summer 93 Top 40s": {
+        "genre": "Pop (90s)",
+        "songs": {
+            "Living on My Own": "Freddie Mercury",
+            "The River of Dreams": "Billy Joel",
+            "What's Up?": "4 Non Blondes",
+            "Dreamlover": "Mariah Carey",
+            "Rain": "Madonna",
+            "What Is Love": "Haddaway",
+            "Go West": "Pet Shop Boys"
+        }
+    },
+    "Summer of Love '67": {
+        "genre": "Pop Rock & Folk Rock",
+        "songs": {
+            "San Francsico": "Scott McKenzie",
+            "Stawberry Fields Forever": "The Beatles",
+            "Waterloo Sunset": "The Kinks",
+            "Happy Together": "The Turtles",
+            "I'm a Believer": "The Monkees",
+            "See Emily Play": "Pink Floyd",
+            "The Letter": "The Box Tops",
+            "Ode To Billie Joe": "Bobbie Gentry",
+            "Ruby Tuesday": "The Rolling Stones",
+            "California Dreamin'": "The Mamas & The Papas"
+        }
+    },
+    "Surf & Cars": {
+        "genre": "Surf Rock",
+        "songs": {
+            "Wipe Out": "The Surfaris",
+            "The Little Old Lady (From Pasadena)": "Jan & Dean",
+            "Little Deuce Coupe": "The Beach Boys",
+            "Drag City": "Jan & Dean",
+            "Hey Little Cobra": "The Rip Chords",
+            "Shut Down": "The Beach Boys",
+            "Little Honda": "The Hondells",
+            "409": "The Rip Chords",
+            "Dead Man's Curve": "Jan & Dean",
+            "Surfer Joe": "The Surfaris",
+            "Do You Love Me": "The Dave Clark Five",
+            "The Joker Went Wild": "Brian Hyland",
+            "Car Crazy Cutie": "The Beach Boys"
+        }
+    },
+    "Taking on the World": {
+        "genre": "Pop Rock (80s)",
+        "songs": {
+            "Where The Streets Have No Name": "U2",
+            "Your Love": "The Outfield",
+            "Every Breath You Take": "The Police",
+            "Everybody Wants To Rule The World": "Tears For Fears",
+            "Heroes": "David Bowie",
+            "Time After Time": "Cyndi Lauper"
+        }
+    },
+    "The Bell's Toll": {
+        "genre": "Metal & Hard Rock",
+        "songs": {
+            "For Whom The Bell Tolls": "Metallica",
+            "Ace of Spades": "Mot\u00f6rhead",
+            "Cowboys from Hell": "Pantera",
+            "Hell Patrol": "Judas Priest",
+            "Symphony Of Destruction": "Megadeth",
+            "Madhouse": "Anthrax",
+            "Mr. Crowley": "Ozzy Osbourne"
+        }
+    },
+    "The Boogie Flu is Goin' Around": {
+        "genre": "Disco",
+        "songs": {
+            "Boogie Fever": "The Sylvers",
+            "Boogie Shoes": "KC & The Sunshine Band",
+            "Boogie Wonderland": "Earth, Wind & Fire",
+            "Blame It on the Boogie": "The Jacksons",
+            "Boogie Nights": "Heatwave",
+            "I'm Your Boogie Man": "KC & The Sunshine Band",
+            "Boogie Oogie Oogie": "ATaste of Honey",
+            "You Should Be Dancing": "Bee Gees"
+        }
+    },
+    "The British Are Coming": {
+        "genre": "Classic Rock",
+        "songs": {
+            "Day Tripper": "The Beatles",
+            "My Generation": "The Who",
+            "We Gotta Get Out Of This Place": "The Animals",
+            "Under My Thumb": "The Rolling Stones",
+            "Ticket To Ride": "The Beatles",
+            "I Can't Explain": "The Who",
+            "Don't Let Me Be Misunderstood": "The Animals",
+            "All Day and All of the Night": "The Kinks",
+            "Time Is On My Side": "The Rolling Stones",
+            "Eleanor Rigby": "The Beatles"
+        }
+    },
+    "The Duh! Mix": {
+        "genre": "Pop Rock & Alternative (80s)",
+        "songs": {
+            "Call Me": "Blondie",
+            "One Thing Leads To Another": "The Fixx",
+            "St. Elmos Fire": "John Parr",
+            "Obsession": "Animotion",
+            "Take on Me": "a-ha",
+            "Der Kommissar": "After The Fire",
+            "Talking In Your Sleep": "The Romantics"
+        }
+    },
+    "The Eighties Mix": {
+        "genre": "Pop Rock & Alternative (80s)",
+        "songs": {
+            "Heart Of Glass": "Blondie",
+            "Eighties": "Killing Joke",
+            "Psycho Killer": "Talking Heads",
+            "Cities In Dust": "Siouxsie and the Banshees",
+            "Cherry Bomb": "The Runaways",
+            "Enjoy the Silence": "Depeche Mode",
+            "Love My Way": "The Psychedelic Furs",
+            "Break It Down Again": "Tears For Fears"
+        }
+    },
+    "The Ninetees": {
+        "genre": "Pop Rock & Alternative (90s)",
+        "songs": {
+            "Connected": "Stereo MC's",
+            "So Alive": "Love and Rockets",
+            "Black Metallic": "Catherine Wheel",
+            "Pets": "Porno for Pyros",
+            "Pop Song 89": "R.E.M.",
+            "Cuts You Up": "Peter Murphy",
+            "Caroline": "Concrete Blonde"
+        }
+    },
+    "Thinking of You": {
+        "genre": "Pop",
+        "songs": {
+            "So Emotional": "Whitney Houston",
+            "Again": "Janet Jackson",
+            "The Promise Of A New Day": "Paula Abdul",
+            "Baby, Baby": "Amy Grant",
+            "Angel Of The Morning": "Juice Newton",
+            "Vision of Love": "Mariah Carey",
+            "Save The Best For Last": "Vanessa Williams"
+        }
+    },
+    "This Is New Wave": {
+        "genre": "New Wave",
+        "songs": {
+            "I Ran (So Far Away)": "A Flock Of Seagulls",
+            "Girls on Film": "Duran Duran",
+            "99 Red Balloons": "Nena",
+            "Once in a Lifetime": "Talking Heads",
+            "Mad World": "Tears For Fears",
+            "Kids In America": "Kim Wilde",
+            "West End Girls": "Pet Shop Boys",
+            "Things Can Only Get Better": "Howard Jones"
+        }
+    },
+    "Thumping": {
+        "genre": "Hip Hop & Rap",
+        "songs": {
+            "Scenario (feat. Busta Rhymes, Dinco D, and Charlie Brown)": "A Tribe Called Quest",
+            "A Bitch Iz A Bitch": "N.W.A.",
+            "Chief Rocka": "Lords Of The Underground",
+            "O.G. Original Gangster": "ICE-T",
+            "Shame On a Nigga (feat. Raekwon, Ol' Dirty Bastard, and Method Man)": "Wu-Tang Clan",
+            "It's Funky Enough": "The D.O.C.",
+            "La Raza": "Kid Frost",
+            "Insane in the Brain": "Cypress Hill"
+        }
+    },
+    "Tommy's Funeral 3-13-92 RIP": {
+        "genre": "Pop & Pop Rock",
+        "songs": {
+            "It's So Hard To Say Goodbye To Yesterday": "Boyz II Men",
+            "Tears in Heaven": "Eric Clapton",
+            "Knockin' On Heaven's Door": "Guns N' Roses",
+            "More Than Words": "Extreme",
+            "Every Breath You Take": "The Police",
+            "Dust in the Wind": "Kansas"
+        }
+    },
+    "Turn the Lights Down": {
+        "genre": "R&B",
+        "songs": {
+            "Sex Me, Pt. I": "R. Kelly",
+            "One More Try": "Timmy T",
+            "Close To You": "Maxi Priest",
+            "I Adore Mi Amor": "Color Me Badd",
+            "Another Sad Love Song": "Toni Braxton",
+            "Rush Rush": "Paula Abdul",
+            "All Cried Out (feat. 112)": "Allure"
+        }
+    },
+    "Turning Japanese": {
+        "genre": "New Wave & Alternative (80s)",
+        "songs": {
+            "Mr. Roboto": "Styx",
+            "Turning Japanese": "The Vapors",
+            "Life in Tokyo": "Japan",
+            "Planet Earth": "Duran Duran",
+            "Cars": "Gary Numan",
+            "Burning Down the House": "Talking Heads",
+            "Japanese Boy": "Aneka"
+        }
+    },
+    "Vibe Hop": {
+        "genre": "Hip Hop",
+        "songs": {
+            "Gin and Juice": "Snoop Dogg",
+            "Back To The Hotel": "N2DEEP",
+            "It Was A Good Day": "Ice Cube",
+            "Real Muthaphuckkin G's": "Eazy-E",
+            "Can I Kick It?": "A Tribe Called Quest",
+            "Tennessee": "Arrested Development",
+            "Summertime": "DJ Jazzy Jeff & The Fresh Prince"
+        }
+    },
+    "Welcome New Bohemia": {
+        "genre": "Alternative",
+        "songs": {
+            "You": "Radiohead",
+            "Homesick": "Soul Asylum",
+            "Blue Sky Mine": "Midnight Oil",
+            "Big Red Letter Day": "Buffalo Tom",
+            "De-Luxe": "Lush",
+            "Dirty Boots": "Sonic Youth",
+            "Monkey Gone to Heaven": "Pixies",
+            "Rhinoceros": "The Smashing Pumpkins"
+        }
+    },
+    "Welcome to the Human Race": {
+        "genre": "Pop Rock",
+        "songs": {
+            "Mr. Blue Sky": "Electric Light Orchestra",
+            "Hooked On A Feeling": "Blue Swede",
+            "I'm Gonna Be (500 Miles)": "The Proclaimers",
+            "Old Time Rock & Roll": "Bob Seger",
+            "We Didn't Start the Fire": "Billy Joel",
+            "Africa": "TOTO",
+            "Separate Ways (Worlds Apart)": "Journey"
+        }
+    },
+    "Will's World": {
+        "genre": "Pop Rock & Hard Rock",
+        "songs": {
+            "Bohemian Rhapsody": "Queen",
+            "Runnin' with the Devil": "Van Halen",
+            "Ballroom Blitz": "Sweet",
+            "Rock Candy": "Montrose",
+            "Foxey Lady": "Jimi Hendrix",
+            "Godzilla": "Blue \u00d6yster Cult",
+            "Feed My Frankenstein": "Alice Cooper"
+        }
+    },
+    "Yacht Rock": {
+        "genre": "Soft Rock",
+        "songs": {
+            "You Make My Dreams (Come True)": "Hall & Oates",
+            "What a Fool Believes": "The Doobie Brothers",
+            "Just the Two of Us": "Grover Washington, Jr.",
+            "Biggest Part of Me": "Ambrosia",
+            "Missing You": "Dan Fogelberg",
+            "Give Me the Night": "George Benson",
+            "You Need A Hero": "Pages"
+        }
+    }
+}
