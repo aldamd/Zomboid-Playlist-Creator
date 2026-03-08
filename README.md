@@ -53,13 +53,13 @@ CLIENT_SECRET=your_spotify_client_secret
 Run with a mixtape name:
 
 ```bash
-python main.py "Geek Rock"
+python zomboid_playlist_creator.py "Geek Rock"
 ```
 
 or run interactively:
 
 ```bash
-python main.py
+python zomboid_playlist_creator.py
 ```
 
 The script will:
