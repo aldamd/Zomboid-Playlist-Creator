@@ -82,12 +82,32 @@ class ZomboidPlaylistCreator:
             results = self.sp.search(
                 q=f"artist:{artist} track:{track}", type="track", limit=1
             )
-            result_track = results["tracks"]["items"][0]["name"].lower()
-            result_artist = results["tracks"]["items"][0]["artists"][0]["name"].lower()
-            if track.lower() not in result_track or artist.lower() not in result_artist:
-                raise ValueError(
-                    f"Expected {track} by {artist}, but got {result_track} by {result_artist}"
+            try:
+                result_track = results["tracks"]["items"][0]["name"]
+                result_artist = results["tracks"]["items"][0]["artists"][0]["name"]
+            except IndexError:
+                print(f"  [!] Could Not Find {track} by {artist}")
+                continue
+            if (
+                track.lower() not in result_track.lower()
+                or artist.lower() not in result_artist.lower()
+            ):
+                closest = difflib.get_close_matches(
+                    track, result_track, n=1, cutoff=0.6
                 )
+                if closest:
+                    if (
+                        input(
+                            f"    [!] Found {track} by {artist} instead of {result_track} by {result_artist}. OK? (y/n): "
+                        ).lower()
+                        == "y"
+                    ):
+                        uri_bin.append(results["tracks"]["items"][0]["uri"])
+                        continue
+                    else:
+                        raise ValueError(
+                            f"Expected {track} by {artist}, but got {result_track} by {result_artist}"
+                        )
             uri_bin.append(results["tracks"]["items"][0]["uri"])
             print(f"  [+] {track} - {artist}")
 
