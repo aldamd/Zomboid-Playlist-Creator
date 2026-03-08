@@ -28,7 +28,7 @@ class ZomboidPlaylistCreator:
             self.tapes = json.load(f)
 
     def get_closest_match(self) -> None:
-        if self.tape_name in [i.lower() for i in self.tapes.keys()]:
+        if self.tape_name.lower() in [i.lower() for i in self.tapes.keys()]:
             print(f"  [+] Found tape {self.tape_name}")
             return
 
