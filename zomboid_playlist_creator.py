@@ -1,3 +1,10 @@
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#     "python-dotenv==1.2.2",
+#     "spotipy==2.26.0",
+# ]
+# ///
 import json
 from dotenv import load_dotenv
 from os import getenv
@@ -5,6 +12,7 @@ import difflib
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import sys
+
 
 class ZomboidPlaylistCreator:
     def __init__(self, tape_name: str) -> None:
@@ -22,17 +30,19 @@ class ZomboidPlaylistCreator:
 
         self.create_playlist()
 
-
     def load_tapes(self) -> None:
         with open("tapes.json") as f:
             self.tapes = json.load(f)
 
     def get_closest_match(self) -> None:
+        print("[*] Searching for matching tape...")
         if self.tape_name.lower() in [i.lower() for i in self.tapes.keys()]:
             print(f"  [+] Found tape {self.tape_name}")
             return
 
-        closest = difflib.get_close_matches(self.tape_name, self.tapes.keys(), n=1, cutoff=0.6)
+        closest = difflib.get_close_matches(
+            self.tape_name, self.tapes.keys(), n=1, cutoff=0.6
+        )
         if closest:
             if input(f"  [!] Did you mean {closest[0]}? (y/n): ").lower() == "y":
                 self.tape_name = closest[0]
@@ -58,7 +68,7 @@ class ZomboidPlaylistCreator:
                 cache_path=".spotify_cache",
             )
         )
-    
+
     def search_songs(self) -> None:
         print("[*] Searching for songs...")
         # search for songs
@@ -67,7 +77,9 @@ class ZomboidPlaylistCreator:
         tape = self.tapes[self.tape_name]
         self.genre = tape["genre"]
         for track, artist in tape["songs"].items():
-            results = self.sp.search(q=f"artist:{artist} track:{track}", type="track", limit=1)
+            results = self.sp.search(
+                q=f"artist:{artist} track:{track}", type="track", limit=1
+            )
             result_track = results["tracks"]["items"][0]["name"].lower()
             result_artist = results["tracks"]["items"][0]["artists"][0]["name"].lower()
             if track.lower() not in result_track or artist.lower() not in result_artist:
@@ -76,13 +88,15 @@ class ZomboidPlaylistCreator:
                 )
             uri_bin.append(results["tracks"]["items"][0]["uri"])
             print(f"  [+] {track} - {artist}")
-        
+
         self.uri_bin = uri_bin
-    
+
     def create_playlist(self) -> None:
         # create playlist
         print("[*] Creating playlist...")
-        playlist = self.sp.current_user_playlist_create(name=self.tape_name, public=True, description=self.genre)
+        playlist = self.sp.current_user_playlist_create(
+            name=self.tape_name, public=True, description=self.genre
+        )
         playlist_id = playlist["id"]
 
         # add tracks
