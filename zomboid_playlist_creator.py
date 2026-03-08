@@ -36,9 +36,11 @@ class ZomboidPlaylistCreator:
 
     def get_closest_match(self) -> None:
         print("[*] Searching for matching tape...")
-        if self.tape_name.lower() in [i.lower() for i in self.tapes.keys()]:
-            print(f"  [+] Found tape {self.tape_name}")
-            return
+        for key in self.tapes.keys():
+            if self.tape_name.lower() in key.lower():
+                self.tape_name = key
+                print(f"  [+] Found tape {self.tape_name}")
+                return
 
         closest = difflib.get_close_matches(
             self.tape_name, self.tapes.keys(), n=1, cutoff=0.6
